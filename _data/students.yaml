@@ -10,10 +10,6 @@
   link: https://www.linkedin.com/in/anuj-dimri-12061669
   image: images/Anuj_Dimri.jpg
 
-- name: Mojgan Khaledi, PhD
-  link:
-  image:
-
 - name: Phil Lundrigan, PhD
   link: http://philip.lundrigan.org
   image: images/lundrigan.jpg
@@ -26,6 +22,14 @@
   link:
   image: images/joe.jpg
 
+- name: Pavithra Chidambaram Pappa, MS
+  link:
+  image: images/pavithra.jpg
+
+- name: Aakanksha Saha, MS
+  link:
+  image:
+
 - name: Aarushi Sarbhai, MS
   link:
   image: images/aarushi.jpg
@@ -37,3 +41,7 @@
 - name: Harsimran Singh, MS
   link: http://harsimransingh.in
   image: images/singh.jpg
+
+- name: Phillip Smith, PhD
+  link:
+  image:
