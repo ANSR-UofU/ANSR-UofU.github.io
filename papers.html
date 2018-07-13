@@ -21,8 +21,10 @@ permalink: /papers
                         {{ paper.abstract }}
                     </p>
                 </div>
+            {% endif %}
+            {% if paper.url %}
                 <div>
-                    <a href="{{ paper.url }}" class="">Full paper</a>
+                    <a href="{{ paper.url }}" class="">Paper</a>
                 </div>
 
             {% endif %}
