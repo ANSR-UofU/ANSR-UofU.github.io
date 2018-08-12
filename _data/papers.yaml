@@ -19,6 +19,37 @@
     long-term deployment.
 
 - title: >
+    Privacy Enabled Crowdsourced Transmitter Localization Using Adjusted Measurements
+  authors: >
+    Harsimran Singh, Shamik Sarkar, Anuj Dimri, Aditya Bhaskara, Neal Patwari,
+    Sneha Kumar Kasera, Samuel Ramirez, and Kurt Derr
+  conference: >
+    IEEE Symposium on Privacy-Aware Computing (IEEE PAC), 2018
+  url: /assets/PAC_locPrivacyAdjustedData-3.pdf
+  abstract: >
+    We address the problem of location privacy in the context of crowdsourced
+    localization of spectrum offenders where participating receivers report
+    received signal strength (RSS) measurements and their location to a
+    central controller. We present a novel approach, that we call the adjusted
+    measurement approach, in which we generate pseudo-locations for
+    participating receivers and report these pseudo-locations along with
+    adjusted RSS measurements as if the measurements were made at the
+    pseudo-locations. The RSS values are adjusted by representing those as a weighted
+    linear combination of the RSS values at the receivers, where receivers
+    closer to the false location have a higher weight than those far away.
+
+    We use two RSS datasets, one from a cluttered office (indoor) and another
+    from roadways in Phoenix, Arizona (outdoor) to evaluate our approach. We
+    compare the localization error of our approach with that of the naive
+    approach that simply adds noise to locations. Our results demonstrate that
+    location privacy can be preserved without a significant increase in the
+    localization error. We also formulate an adversary attack that attempts to
+    solve the inverse problem of determining the true locations of the
+    receivers from their false locations. Our evaluations show that the
+    adversary does no better than random guessing of true locations in the
+    monitored area.
+
+- title: >
     STRAP: Secure TRansfer of Association Protocol
   authors: >
     P. Lundrigan, N. Patwari, S. K. Kasera
@@ -34,13 +65,6 @@
     WiFi devices and a home's wireless router. We show that STRAP works in a
     variety of environments and is faster than conventional methods for
     connecting WiFi devices to home wireless routers.
-
-- title: >
-    Privacy Enabled Crowdsourced Transmitter Localization Using Adjusted Measurements
-  authors: >
-    Harsimran Singh, Shamik Sarkar, Anuj Dimri, and Sneha Kumar Kasera
-  conference: >
-    IEEE Symposium on Privacy-Aware Computing (IEEE PAC), 2018
 
 - title: >
     Enabling WiFi in Open Access Networks

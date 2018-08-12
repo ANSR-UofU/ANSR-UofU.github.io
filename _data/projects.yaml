@@ -1,3 +1,10 @@
+- name: Platform for Open Wireless Data-driven Experimental Research (POWDER)
+  description: <a href="https://powderwireless.net/">Site</a>
+
+- name: Cyber-Physical Control, Health Assessment and Resilient Response for Microgrids
+
+- name: Dynamic Space Frequency Multiplexing - A New Paradigm for Filterbank Multicarrier Spectrum Access
+
 - name: Preventing Radio Window Attacks
 
 - name: PRISMS Informatics Platform - Federated Integration Architecture - Data Acquisition
@@ -10,5 +17,3 @@
 - name: Edge Intelligence for Virtualization and Security in Open Networks
 
 - name: KnowOps – Making Network Management & Operations Software Defined
-
-- name: Measurements, Methodologies, and Applications of Spatio-temporal Variations of Wireless Link Characteristics
